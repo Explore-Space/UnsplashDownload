@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/Explore-Space/UnsplashDownload.svg?branch=master)](https://travis-ci.org/Explore-Space/UnsplashDownload)
 
-[中文版](https://github.com/Explore-Space/UnsplashDownload/blob/master/README_CN.md)
+- [中文版](https://github.com/Explore-Space/UnsplashDownload/blob/master/README_CN.md)
 
 ## 0x00 Introduction
 
