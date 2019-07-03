@@ -12,7 +12,7 @@
 
 [![Unsplash](https://images.unsplash.com/moment-1544716590524-4fc5a168786e?dpr=3&auto=format&fit=crop&w=600&q=60 "Unsplash")](https://unsplash.com/)
 
-> Beautiful, free images and photos that you can download and use for any project. Better than any royalty free or stock photos.
+> 美丽，免费的图像和照片，您可以下载和用于任何项目，比任何免版权或素材图片都好。
 
 ## 0x01 目的
 
@@ -22,8 +22,8 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
-- [scrapy](https://scrapy.org/) - An open source and collaborative framework for extracting the data you need from websites
-- [threadpool](https://pypi.org/project/threadpool/) - Easy to use object-oriented thread pool framework
+- [scrapy](https://scrapy.org/) - 一个开放源码的协作框架，用于从网站中提取您需要的数据
+- [threadpool](https://pypi.org/project/threadpool/) - 易于使用面向对象的线程池框架
 
 ## 0x03 运行
 1.克隆该存储库并进入文件根目录
