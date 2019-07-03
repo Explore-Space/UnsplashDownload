@@ -48,7 +48,7 @@ pip3 install -r requirements.txt
 scrapy crawl unsplash
 ```
 
-The database files generated after running are saved in [***database***](https://github.com/Explore-Space/UnsplashDownload/tree/master/database) 
+The database file generated after running is saved in [***database***](https://github.com/Explore-Space/UnsplashDownload/tree/master/database) 
 
 4.Run multithreaded Downloader
 
