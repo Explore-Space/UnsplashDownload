@@ -71,7 +71,7 @@ Test Environment：
 - OS： Ubuntu 18.04
 - Python version： 3.6.8
 - Scrapy version： 1.6
-- Last test time ： 2019-06-28
+- Last test time ： 2019-07-04
 
 ## 0x06 Acknowledgements
 
